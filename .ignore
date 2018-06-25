@@ -1,2 +1,7 @@
+<<<<<<< HEAD
 .ipynb*
 README*
+=======
+.ipynb_checkpoints
+README.md
+>>>>>>> 551cd63b9f7372c525ef480d324390ce5ae9e3e0
